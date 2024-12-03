@@ -1,2 +1,2 @@
-# DormConnect
-This is my project called DormConnect. It's all about helping university students and employees find comfortable and affordable boarding accommodations. It aims to assist those who are actively searching for a place to stay near our university.
+Redefining the Way You Find Boarding Accommodations
+DormConnect is a web-based platform designed to help university students and employees easily find safe, secure, and comfortable boarding accommodations near their university. Many students and staff struggle to discover available options in their area, even when plenty of accommodations exist. DormConnect bridges this gap, making the process simple, transparent, and efficient
